@@ -2,6 +2,13 @@
     .aside{
         left:-270px;
     }
+    .aside.nav-toggler{
+        display: flex;
+        left: 30px;
+    }
+    .section{
+        left: 0;
+    }
     .main-content{
         padding-left: 0;
     }
