@@ -2,7 +2,7 @@ var messages= [
     [
         {
             text: "\u00A0\u00A0\u00A0\u00A0\u00A0Đã 2 năm từ khi rời trường😥😥, lâu rồi không được gặp Như."
-            +"rất hiếm khi có thể nói chuyện với Như thật dài"
+            +"Hiếm khi có thể nói chuyện với Như thật dài"
             +"nên mình nghĩ đây là cách cuối cùng để được Như lắng nghe (╥﹏╥)",
             istyping: false
         },
@@ -11,15 +11,15 @@ var messages= [
             isBr: true,
         },
         {
-            text: "\u00A0\u00A0\u00A0\u00A0\u00A0Hãy xem hết nhá, coi như cuộc nói chuyện bình thường.. "+
-            "" + "hãy lướt qua hết và có thể xem như chưa từng"+
-            "bước vào đây nếu Như không thích.."
+            text: "\u00A0\u00A0\u00A0\u00A0\u00A0Xem hết nhá, coi như cuộc nói chuyện bình thường.. "+
+            "lướt qua hết và có thể xem như chưa từng"+
+            "bước vào đây,.. nếu Như không thích.."
         },
         {
             isBr: true,
         },
         {
-            text:"\u00A0\u00A0\u00A0\u00A0\u00A0Mặc dù mình cũng muốn lấy web này làm web CV giới thiệu bản thân cho Như ૮(˶╥︿╥)ა"
+            text:"\u00A0\u00A0\u00A0\u00A0\u00A0Mặc dù mình cũng muốn lấy web này làm web CV bản thân cho Như ૮(˶╥︿╥)ა"
         }
     ],
     [
@@ -42,13 +42,13 @@ var messages= [
             isBr: true,
         },
         {
-            text: "\u00A0\u00A0\u00A0\u00A0\u00A0Và hi vọng trong suốt khoảng đó thời gian Như vẫn khỏe",
+            text: "\u00A0\u00A0\u00A0\u00A0\u00A0Và hi vọng trong suốt khoảng đó thời gian Như vẫn khỏe, ",
         },
         {
             isBr: true,
         },
         {
-            text:"\u00A0\u00A0\u00A0\u00A0\u00A0và vẫn vui vẻ, vẫn cười nhiều, vẫn ăn nhiều, vẫn ngủ nhiều, vẫn học tốt, vẫn chơi vui, vẫn iu mèo, vẫn iu mình, vẫn iu mọi người, vẫn iu cuộc sống, iu đủ thứ như 1 con điên (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
+            text:"\u00A0\u00A0\u00A0\u00A0\u00A0vẫn vui vẻ, vẫn cười nhiều, vẫn ăn nhiều, vẫn ngủ nhiều, vẫn học tốt, vẫn chơi vui, vẫn iu mèo, vẫn iu mình, vẫn iu mọi người, vẫn iu cuộc sống, iu đủ thứ như 1 con điên (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
             istyping: true
         }
     ],
@@ -75,7 +75,7 @@ var messages= [
             isBr: true
         },
         {
-            text:"mình vẫn muốn bày tỏ,... mình yêu Như (ewww sến quá, ai đó xóa dùm t cái dòng này đi eowww)",
+            text:"\u00A0\u00A0\u00A0\u00A0\u00A0mình vẫn muốn bày tỏ,... mình yêu Như (ewww sến quá, ai đó xóa dùm t cái dòng này đi eowww)",
             istyping: true
         },
         {
@@ -85,54 +85,65 @@ var messages= [
             text:"Thế nên là.. mình vẫn muốn thử lại 1 lần nữa, nhưng lần này không bằng lời mà là con người mình "
         },
         {
-            text:"không phải có thú vị, lãng mạn hay không mà liệu có đủ giàu không, có quan tâm, tinh tế không. "
-            +"một bữa có cho con meo meo Hoàng Như này đủ sushi không ..."
+            isBr: true
+        },
+        {
+            text:"\u00A0\u00A0\u00A0\u00A0\u00A0Có thể không phải là bây giờ.. vì giờ mình đã có gì đâu, tiền không có, đẹp cũng không..",
         },
         {
             isBr: true
         },
         {
-            text:"sometimes acts could be more meaningful than words, make it up for boredom..."
+            text:"\u00A0\u00A0\u00A0\u00A0\u00A0Cứ xem như đây là thư gửi bạn mình đi.. Mình sẽ thay đổi gì đó và sẽ quay lại hỏi Như 1 lần nữa"
+            + " vào một ngày kỳ lạ"
         }
     ],
     [
         {
-            text:"Như có nói ước mơ lấy chồng giàu nhe, có nhà, có xe, có tiền, có sushi, có mèo, chiều chiều dẫn đi đua xe hén",
+            text:"🐧🐧... Biết đâu ngày nào đó cho Như chiếc Posche đua xe bốc đầu thì sao nè🐧🐧",
         },
         {
             isBr: true
         },
         {
-            text:"Mình cứ xem như ước mơ lớn vậy",
+            text:"..Mình sẽ xem lấy chồng giàu là ước mơ của Như.. cũng hông biết là đỡ nổi không đây",
         },
         {
             isBr: true
         },
         {
-            text:"Nên, hãy cứ chờ xem, nếu như mình làm được. Nếu như mình chứng minh con người mình"
+            text:"Giữ cho mình một chỗ trong đầu Như được rồi.."
         },
         {
             isBr: true
         },
         {
-            text:"Lúc đó hãy xem mình như 1 lựa chọn nhé, 1 cơ hội nhé ..."
+            isBr: true
+        },
+        {
+            text:"Lâu lâu ngồi không tự nhiên nhớ có thằng khùng nó làm đủ trò để khều mình ( ๑ ˃̵ᴗ˂̵)و ♡ ",
+            istyping: true
         }
     ],
     [
         {
-            text:"Hi vọng nó mang tới điều gì đó thú vị cho Như",
+            text:"Hiện tại mình cũng đang cố gắng, xin được thực tập này nọ kia..",
         },
         {
             isBr: true
         },
         {
-            text:'có nhiều phần của web mình chưa xong, nên thông cảm nhé',
+            text:'... mục tiêu mới ra trường $800/tháng cũng ổn mà nhỉ.. '
+            +'(ㅠ﹏ㅠ) cỡ này thui, mình sợ không rướn nổi... từ từ rồi số đó sẽ lớn hơn',
         },
         {
             isBr: true
         },
         {
-            text:"Liệu mình có thể biết Như đang ở đâu không, học cơ sở nào..."
+            isBr: true
+        },
+        {
+            text:"Nhân tiện thì, liệu mình có thể biết Như đang ở đâu không, học cơ sở nào..."
         },
         {
             isBr: true
@@ -145,6 +156,18 @@ var messages= [
         },
         {
             text:"P/s: sao để bắt con meo meo Hoàng Như này về nuôi đây (づ￣ ³￣)づ"
+        },
+        {
+            isBr: true
+        },
+        {
+            text:"Chiếc web này hơi xấu, Như thông cảm, mình chưa có thời gian chuẩn bị tốt hơn 😥😥"
+        },
+        {
+            isBr: true
+        },
+        {
+            text:"tự tay mình làm ấy, không nhờ ai vẽ như cấp 3 đâu, dù mình không giỏi làm giao diện 😥"
         }
     ]
 ]
@@ -155,7 +178,7 @@ var images=[
     "./images/Nhu/intro-import.jpg",
     "./images/Nhu/Nhu hoa.png",
     "./images/Nhu/Nhu yeah.png",
-    "./images/Nhu/Nhu avatar.png",
+    "./images/Nhu/Nhu avatar.jpg",
     "./images/Nhu/Nhudraw.jpg"
 ]
 
@@ -180,7 +203,7 @@ function AddClassList(classList,element){
 }
 
 function ResetMessage(message){
-    console.log(text_display.innerHTML)
+    // console.log(text_display.innerHTML)
     text_display.innerHTML = "";
     message.forEach(item=>{
         if(item.isBr){
@@ -188,13 +211,13 @@ function ResetMessage(message){
         }
         else if(item.istyping){
             let my_span = document.createElement('span');
-            my_span.id = "typing-text";
+            my_span.classList.add("typing-text")
             text_display.appendChild(my_span);
-            var text_box_typing = new Typed("#typing-text",{
+            var text_box_typing = new Typed(".typing-text",{
                 strings:[item.text],
-                typedSpeed: 100,
-                backSpeed:0,
-                loop:false
+                typeSpeed: 30,
+                backSpeed: 0,
+                loop: false
             })
         }
         else
@@ -244,7 +267,7 @@ button_next.addEventListener("click",function(){
     current=(current+1)%messages.length;
     if(current<0)
         current = 0;
-    console.log(messages[current])
+    // console.log(messages[current])
     let message = messages[current];
     ResetMessage(message);
     PageSwitch();
